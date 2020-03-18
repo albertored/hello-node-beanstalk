@@ -20,6 +20,10 @@ app.get('/', function (req, res) {
 		{
 			"id": 3,
 			"title": "Aggiunto da pipeline"
+		},
+		{
+			"id": 3,
+			"title": "Approvazione manuale"
 		}
 	])
 })
